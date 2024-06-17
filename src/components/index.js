@@ -1,5 +1,5 @@
-import ScaffoldVuerTemplate from './ScaffoldVuerTemplate.vue';
+import ScaffoldAnnotator from './ScaffoldAnnotator.vue';
 
 export {
-  ScaffoldVuerTemplate
+  ScaffoldAnnotator
 };

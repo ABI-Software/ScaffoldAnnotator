@@ -34,7 +34,7 @@ import { ScaffoldVuer } from "@abi-software/scaffoldvuer";
 import "@abi-software/scaffoldvuer/dist/style.css";
 
 export default {
-  name: "ScaffoldVuerTemplate",
+  name: "ScaffoldAnnotator",
   components: {
     ScaffoldVuer,
   },
